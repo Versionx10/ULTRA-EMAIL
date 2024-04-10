@@ -22,7 +22,7 @@ Bomb emails
 
 * pkg install git -y
 
-* git clone https://github.com/
+* git clone https://github.com/Versionx10/ULTRA-EMAIL.git
 
 * cd Em-Bomber
 
