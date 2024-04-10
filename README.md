@@ -27,7 +27,7 @@ apt-get upgrade -y
 ```console
  pip install bs4
 ```
-```condole
+```console
  pkg install git -y
 ```
 ```console
