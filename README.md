@@ -6,29 +6,39 @@ Bomb emails
 
 # Installation Command
 
-* apt-get update -y
-
-* apt-get upgrade -y
-
-* pkg install python -y
-
-* pip install requests
-
-* pip install rich
-
-* pip install httpx
-
-* pip install bs4
-
-* pkg install git -y
-
-* git clone https://github.com/Versionx10/ULTRA-EMAIL.git
-
-* cd Em-Bomber
-
-* python3 em-bomber.py
-
-`Enable Less Secure Apps.`
+```console
+ apt-get update -y
+```
+```console
+apt-get upgrade -y
+```
+```console
+ pkg install python -y
+```
+```console
+ pip install requests
+```
+```console
+ pip install rich
+```
+```console
+ pip install httpx
+```
+```console
+ pip install bs4
+```
+```condole
+ pkg install git -y
+```
+```console
+ git clone https://github.com/Versionx10/ULTRA-EMAIL.git
+```
+```console
+ cd ULTRA-EMAIL
+```
+```console
+ python ULTRA-EMAIL.py
+```
 
 # ULTRA EMAIL BOMBER 
 ![](Screenshot.png)
